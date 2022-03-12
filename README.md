@@ -1,53 +1,120 @@
-<div align="center">
-<div align="center">
-  <p align="center">
-<img src=https://i.ibb.co/nPSmv7d/dd75acba3c0361cca99b05b1e5b6d5c6.png>
-</p>
- </a>
-</p>
+</a></p>
+<div align="center"><img src="https://profile-counter.glitch.me/MhmdMukarram/count.svg" /><br>Profile Viewers</div>
 
-
-
-## [![Typing SVG](https://readme-typing-svg.herokuapp.com?font=Rockstar-ExtraBold&color=F33A6A&lines=𝐖𝐄𝐋𝐂𝐎𝐌𝐄+𝐓𝐎+𝐀𝐁𝐔+𝐒𝐄𝐑+𝐖𝐀+𝐁𝐎𝐓+𝐑𝐄𝐏𝐎.;𝘾𝙍𝙀𝘼𝙏𝙀𝘿+𝘽𝙔+𝐀𝐁𝐔+𝘼𝙉𝘿+𝐉𝐀𝐒𝐈𝐋;𝙏𝙃𝙄𝙎+𝙄𝙎+𝘼+𝘽𝙂𝙈+𝙎𝙏𝙄𝘾𝙆𝙀𝙍+𝘽𝙊𝙏;𝙒𝙄𝙏𝙃+𝙈𝙊𝙍𝙀+𝙁𝙀𝘼𝙏𝙐𝙍𝙀𝙎;𝙏𝙃𝘼𝙉𝙆𝙎+𝙁𝙊𝙍+𝙑𝙄𝙎𝙄𝙏𝙄𝙉𝙂+𝙊𝙐𝙍+𝙂𝙄𝙏)](https://git.io/typing-svg)
-
- </a>
+## <!-- Typing SVG -->
+<p align="center">
+    <a href="https://git.io/J0hKr">
+        <img
+        src="https://readme-typing-svg.herokuapp.com?size=30&width=800&lines=Welcome+To+RED-ALPHA+WHATSAPP+BOT."
+            alt="Typing SVG"
+        />
+    </a>
 </p>
 <div align="center">
   <p align="center">
-<img src="https://www.linkpicture.com/q/rafi.png?cid=790b7611a48d56eec88e20cfedb2c8be6e08c0fde3f8fe72&rid=giphy.gif&ct=g.gif" alt="GIF" width="300" height="270"/>
+## <!-- Typing SVG -->
+<p align="center">
+    <a href="https://git.io/J0hKr">
+        <img
+        src="https://readme-typing-svg.herokuapp.com?size=30&width=800&lines=RED-ALPHA+BOT+WAS+DEVELOPED+BY+MHMD+MUKARRAM."
+            alt="Typing SVG"
+        />
+    </a>
 </p>
+<div align="center">
+  <p align="center">   
+    ## <!-- Typing SVG -->
+<p align="center">
+    <a href="https://git.io/J0hKr">
+        <img
+        src="https://readme-typing-svg.herokuapp.com?size=30&width=800&lines=RED-ALPHA+BOT+WAS+FORK+FROM+AMALSER."
+            alt="Typing SVG"
+        />
+    </a>
+</p>
+<div align="center">
+  <p align="center"> 
 
+    
+# RED-ALPHA-BOT
+
+<div align="center">
+  <img border-radius: 15px src="https://tenor.com/view/whenyouseeyourenemy-wolves-blue-red-gif-19635524.gif" width="500" height="600"/>
+   <p align="center">
+<a href="#"><img title= redalpha src="https://img.shields.io/badge/RED-ALPHA-red?colorA=%23ff0000&colorB=%23017e40&style=for-the-badge"></a>
+</p>
   <p align="center">
-<a href="#"><img title="AbuSer" src="https://img.shields.io/badge/JASIL-ABU_SER-green?colorA=%23ff0000&colorB=%23017e40&style=for-the-badge"></a>
+<a href="https://github.com/MhmdMukarram"><img title="Author" src="https://img.shields.io/badge/Author-mhmdmukarram/JulieMwol?color=red&style=for-the-badge&logo=whatsapp"></a>
 </p>
 </div>
 <p align="center">
-𝐏𝐫𝐨𝐣𝐞𝐜𝐭 𝐂𝐫𝐞𝐚𝐭𝐞𝐝 𝐁𝐲 𝐀𝐛𝐮 𝐒𝐞𝐫
+Project created by <a href="https://github.com/MhmdMukarram">RED-ALPHA</a> to make it public
     <br>
        | © |
         Reserved |
     <br> 
 </p>
-<img src=https://i.imgur.com/8LiFere.png>
+
+----
+
+  <p align="center">
+  <a href="https://github.com/farhan-dqz">
+    <img src="https://img.shields.io/github/repo-size/farhan-dqz/JulieMwol?color=green&label=Repo%20total%20size&style=plastic">ls
+<p align="center">
+<a href="https://github.com/farhan-dqz/followers"><img title="Followers" src="https://img.shields.io/github/followers/farhan-dqz?color=blue&style=flat-square"></a>
+<a href="https://github.com/farhan-dqz/JulieMwol/stargazers/"><img title="Stars" src="https://img.shields.io/github/stars/farhan-dqz/JulieMwol?color=blue&style=flat-square"></a>
+<a href="https://github.com/farhan-dqz/JulieMwol/network/members"><img title="Forks" src="https://img.shields.io/github/forks/farhan-dqz/JulieMwol?color=blue&style=flat-square"></a>
+<a href="https://github.com/farhan-dqz/JulieMwol/watchers"><img title="Watching" src="https://img.shields.io/github/watchers/farhan-dqz/JulieMwol?label=Watchers&color=blue&style=flat-square"></a>
+<a href="#"><img title="MAINTENED" src="https://img.shields.io/badge/UNMAINTENED-YES-blue.svg"</a>
 </p>
 
-
-<a href="https://github.com/Afx-Abu/Abu_ser/fork"><img align="center" src="https://i.imgur.com/vUIRd80.png" alt="Fork and deploy" height="112" width="300" /></a>
-<br>
-<div>
-<a href="https://replit.com/@Arx-Abu/ABU-SER-QR?v=1"><img align="center" src="https://i.imgur.com/SYoMXG2.png" alt="Scan QR" height="112" width="300" /></a>
-<br>
-
-<a href="https://jasils-website.yolasite.com/"><img align="center" src="https://i.imgur.com/eb2xb9u.png" alt="Fork and deploy" height="112" width="300" /></a>
-   <br>
-<div>
-<a href="https://abuser1.yolasite.com/"><img src="/language/web.png" alt="Visit Website" height="112" width="300" border="0"></a>
-
-##
-  <h3 align="center">📢 JOIN OUR SUPPORT GROUP:</h3>
-<p align="center">
-CLICK THIS LOGO TO JOIN OUR SUPPORT GROUP🎗️
+## 📢 Guide
+Click WA logo to Join Support Group 👇
     <br>
 <br>
-  <a href="https://chat.whatsapp.com/Bq0eHs3UpGJ2BKIHOmy7mk" target="blank"><img align="center" src="https://i.imgur.com/M9ThzcR.png" alt="kyrie.baran" height="100" width="300" /></a>
-</p> 
+  [![join](https://github.com/Alien-alfa/PublicBot/blob/main/wlogo.svg.png)](https://chat.whatsapp.com/Jx7f5x3wSU7D8a9ntdFB3j)
+  <div align="center">
+       
+
+  </div
+    
+## Setup
+<div align="center">
+
+  ### Simple Method
+  
+> scan  QR Code ✏
+<div align="left"><a href="https://replit.com/@Amalser/Amalser"><img src="https://i.ibb.co/5L3L19w/IMG-20211205-075024.jpg" width="150" ></a></div>
+
+> Deploy Your Bot On Heroku ✏
+
+<div align="left"><a href="http://heroku.com/deploy?template=https://github.com/MhmdMukarram1/CHINTU-WA-BOT"><img src="https://i.ibb.co/WPRfjrZ/c6eb7d6b6606.png" width="150" ></a></div>
+       
+      
+<br>
+<br >
+
+
+### ⚠️ Warning! 
+```
+කරුනාකර ඉහත වට්සැප් ලොගො එක ක්ලික් කරල suppot group එකට ජොයින් වෙන්න,
+தயவு செய்து மேலே உள்ள whatsapp Logoவை click செய்து bot support group இல் join செய்து கொள்ளுங்கள்
+CREATED BY MHMD MUKARRAM
+```
+
+## AMALSER BOT CREATER
+  <div align="center">
+    
+  [![AMALSER](https://avatars.githubusercontent.com/u/93727572?v=4.jpg?size=100)](https://avatars.githubusercontent.com/u/93727572?v=4.jpg) |  [AMALSER](https://github.com/Amal-ser)
+----|----|----
+[AMALSER](https://github.com/Amal-ser)  
+
+  </div>
+    
+
+
+## License
+This project is protected by `GNU General Public Licence v3.0` license.
+
+### Disclaimer
+`WhatsApp` name, its variations and the logo are registered trademarks of Facebook. We have nothing to do with the registered trademark
